@@ -68,17 +68,11 @@ a:hover {
   text-decoration: underline #55008e;
 }
 
-nav {
-  font-size: 18px;
-}
-nav a:link {
+nav a {
   margin-right: 30px;
   margin-top: 10px;
   display: inline-block;
-}
-
-nav a:link:last-child {
-  margin-right: 0;
+  font-size: 18px;
 }
 
 p {
@@ -120,7 +114,6 @@ footer {
   margin-bottom: 40px;
 }
 
-.post-img {
+.post-image {
   width: 100%;
-  height: auto;
 }
